@@ -1,0 +1,29 @@
+{
+	
+	"domain" : "xyz.com",
+
+	"groups" : [
+		{
+			"name": "Engineering"
+		}
+
+
+	],
+
+
+	"users": [
+		{
+			"name": "Ben Thorne",
+			"password": "abc123!!!",
+
+			"groups": [
+				"Engineering"
+			]
+
+		}
+
+	]
+
+
+
+}
